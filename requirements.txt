@@ -1,0 +1,7 @@
+streamlit==1.13.0
+python-dotenv==0.19.2
+langchain==0.2.10
+langchain_community==0.2.0
+streamlit-audiorec
+altair==4.1.0
+openai==1.36.1
